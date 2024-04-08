@@ -22,6 +22,7 @@ Para ejecutar este servicio, se recomienda tener instalado Java 11 o superior.
 2. **Importar el proyecto en un IDE compatible con SpringBoot.**
 3. **Ejecutar la aplicación desde el IDE o mediante el comando `./mvnw spring-boot:run`.**
 4. **El servicio estará disponible en la dirección `http://localhost:8080`.**
+5. **La BD estará disponible en la dirección `http://localhost:8080/h2-console/login.do?jsessionid=04f553bda31e22e79b3cf97996dd5320`.**
 
 ## Estructura del Proyecto
 
